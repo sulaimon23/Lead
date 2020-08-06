@@ -1,0 +1,7 @@
+{
+ "python.pythonPath": "C:\\Users\\Taiwo\\.virtualenvs\\venv-hZk9XKJD\\Scripts\\python.exe",
+ "python.linting.pylintEnabled": true,
+ "python.linting.enabled": true,
+ "python.linting.mypyEnabled": false,
+ "git.ignoreLimitWarning": true
+}

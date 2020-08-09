@@ -8,13 +8,13 @@ const initialState = {
 };
 
 export default function (state = initialState, action){
-  switch (action.types) {
+  switch (action.type) {
     case GET_ERRORS:
       return {
         msg: action.payload.msg,
         status: action.payload.status
       };
-      default:
-        return state;
+    default:
+      return state;
   }
 }

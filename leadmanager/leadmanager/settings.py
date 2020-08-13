@@ -88,7 +88,7 @@ WSGI_APPLICATION = 'leadmanager.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'lead',
+        'NAME': 'project',
         'USER': 'postgres',
         'PASSWORD': 'sulaimon23',
         'HOST': '127.0.0.1',
